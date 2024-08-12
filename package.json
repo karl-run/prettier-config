@@ -1,8 +1,12 @@
 {
   "name": "@karl-run/prettier-config",
   "private": false,
-  "version": "0.9.2",
+  "version": "1.0.0",
   "module": "index.mjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karl-run/prettier-config/"
+  },
   "files": [
     "index.mjs"
   ],
