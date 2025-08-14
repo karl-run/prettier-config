@@ -8,6 +8,7 @@ const config = {
   singleQuote: true,
   printWidth: 120,
   tabWidth: 2,
+  proseWrap: "always",
   overrides: [
     {
       files: ["*.yml", "*.yaml"],
